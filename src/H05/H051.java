@@ -9,5 +9,6 @@ public class H051 extends Applet {
     }
     public void paint(Graphics g){
         g.drawString("Hello World!", 20, 20);
+        g.drawString("Hello World!", 20, 20);
     }
 }
